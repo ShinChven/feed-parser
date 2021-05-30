@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<opml version="1.0">
+    <head>
+        <title>ShinChven subscriptions in feedly Cloud</title>
+    </head>
+    <body>
+        <outline text="ACG" title="ACG">
+            <outline type="rss" text="ACGdoge" title="ACGdoge" xmlUrl="http://www.acgdoge.com/feed" htmlUrl="https://www.acgdoge.net"/>
+            <outline type="rss" text="PlayStation LifeStyle" title="PlayStation LifeStyle" xmlUrl="http://playstationlifestyle.net/feed/" htmlUrl="https://www.playstationlifestyle.net"/>
+            <outline type="rss" text="Anime Talk" title="Anime Talk" xmlUrl="http://www.dvdtalk.com/anime/index.xml" htmlUrl="http://www.dvdtalk.com/anime/"/>
+            <outline type="rss" text="Mtime时光网资讯" title="Mtime时光网资讯" xmlUrl="http://feed.mtime.com/news.rss" htmlUrl="http://news.mtime.com/movie/{0}/index.html"/>
+            <outline type="rss" text="The Moviefone Blog" title="The Moviefone Blog" xmlUrl="http://blog.moviefone.com/rss.xml" htmlUrl="https://www.moviefone.com"/>
+            <outline type="rss" text="The Verge" title="The Verge" xmlUrl="http://www.theverge.com/rss/full.xml" htmlUrl="https://www.theverge.com/"/>
+        </outline>
+        <outline text="app" title="app">
+            <outline type="rss" text="小众软件" title="小众软件" xmlUrl="http://feed.appinn.com/" htmlUrl="https://www.appinn.com"/>
+            <outline type="rss" text="异次元软件世界" title="异次元软件世界" xmlUrl="http://feed.iplaysoft.com/" htmlUrl="https://www.iplaysoft.com"/>
+        </outline>
+    </body>
+</opml>
